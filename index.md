@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/howardc20/Infinite-Reading/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<title>Cade's Extraordinary Digital Engineering and Fabrication Website</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<style>
+h1 {font-family:times new roman;color:#F45642;font-size:200%;text-align:center;max-width:1280px;}
+h2 {font-family:times new roman;color:tomato;font-size:30px;}
+a {font-family:arial;font-size:130%;}
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #F2F2F2;
+}
+a:hover {
+	color: #F45642;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: #999999;
+}
+body {
+background-image:url(e1.jpg);
+background-repeat:no-repeat;
+background-position:left top;
+width="1280"; height="960";
+background-color:black;
+}
+</style>
+</head>
 
-### Markdown
+<body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>
+<h1>Cade's Extraordinary Digital Engineering and Fabrication Website</h1>
+</p>
 
-```markdown
-Syntax highlighted code block
+<p>
+<aside>
+<a href="me.html">About me</a>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<p>
+<a href="week1.html">Week 1</a>
+</p>
 
-1. Numbered
-2. List
+<p>
+<a href="week2.html">Week 2</a>
+</p>
 
-**Bold** and _Italic_ and `Code` text
+<p>
+<a href="week3.html">Week 3</a>
+</p>
 
-[Link](url) and ![Image](src)
-```
+<p>
+<a href="week4.html">Week 4</a>
+</p>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>
+<a href="week5.html">Week 5</a>
+</p>
 
-### Jekyll Themes
+<p>
+<a href="week6.html">Week 6</a>
+</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/howardc20/Infinite-Reading/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p>
+<a href="week7.html">Week 7</a>
+</p>
 
-### Support or Contact
+<p>
+<a href="week8.html">Week 8</a>
+</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>
+<a href="week9.html">Week 9</a>
+</p>
+
+<p>
+<a href="week10.html">Week 10</a>
+</p>
+
+<p>
+<a href="week11.html">Week 11</a>
+</p>
+
+
+<p>
+<a href="final.html">Final Project</a>
+</p>
+
+</body>
+</html>
